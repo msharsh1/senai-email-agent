@@ -1,6 +1,6 @@
 {
-  "sender": "test@gmail.com",
-  "subject": "Refund needed",
-  "body": "I want a refund",
-  "timestamp": "2024-01-01"
+  "sender": "test@example.com",
+  "subject": "Refund issue",
+  "body": "I requested a refund but have not received it.",
+  "timestamp": "2026-05-21T10:00:00"
 }
